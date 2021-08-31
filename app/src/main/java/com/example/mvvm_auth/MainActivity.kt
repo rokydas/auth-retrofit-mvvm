@@ -36,5 +36,7 @@ class MainActivity : AppCompatActivity() {
 
         finish()
         startActivity(Intent(this, AuthActivity::class.java))
+
+        // testing commit
     }
 }
